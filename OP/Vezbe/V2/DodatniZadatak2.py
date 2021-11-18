@@ -12,7 +12,7 @@ if donja <= gornja:
     while True:
 
         temp = (donja + gornja) // 2
-        print(f"Da li je vas pokusaj {temp}", end=" ")
+        print(f"Da li je vas pokusaj",temp, end=" ")
         unos = input("[unesite = ako jeste, > ako je rez veci i < ako je manji]: ")
         brpokusaja += 1
 
@@ -20,15 +20,17 @@ if donja <= gornja:
             print("Svaka cast, pogodili ste")
             break
         elif unos == '>':
-            donja == temp
+            donja = temp + 1
         elif unos == '<':
-            gornja = temp
+            gornja = temp - 1
         else:
             print("Niste uneli dobar znak")
     
-    print("Resenje je ", pogodak)
+    print("Resenje je ", temp)
     print(f"Pokusali ste {brpokusaja} puta da pogodite")
 
 else:
     
     print("Niste dobro uneli granice")
+
+
