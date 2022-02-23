@@ -1,0 +1,4 @@
+123|kuhinja
+234|pegla
+345|klima
+456|veš mašina

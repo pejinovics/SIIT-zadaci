@@ -1,0 +1,15 @@
+markos|12345|Marko|Stankovic|muski|0661234555|markostankovic@gmail.com|Gost|ne
+stefans|00000|Stefan|Subotic|muski|0631234666|stefansubotic@gmail.com|Gost|ne
+jelenak|11111|Jelena|Kojic|zenski|0658881234|jelenakojic@gmail.com|Gost|ne
+jovanat|33333|Jovana|Tosic|zenski|0631112223|jovanatosic@gmail.com|Gost|ne
+jovanr|99999|Jovan|Rakic|muski|0611110002|jovanrakic@gmail.com|Domacin|ne
+danijelam|12346|Danijela|Markovic|zenski|0605551110|danijelamarkovic@gmail.com|Domacin|ne
+milosm|54321|Milos|Maric|muski|0611234567|milosmaric@gmail.com|Administrator|nikad
+nenadg|12789|Nenad|Gvozdenac|muski|0631111888|nenadg@gmail.com|Gost|ne
+domacinko|12345|Domacin|Prezimenko|muski|0665133002|domacin@gmail.com|Domacin|ne
+gost|12345|Gost|Gostic|muski|084723432|gost@gmail.com|Gost|da
+nekoime|98232|Stefan|Pejinovic|muski|0651234987|nekimejl@gmail.com|Gost|ne
+nekidom|43242|Stefan|Ceva|muski|0545345343|domacinski@gmail.com|Domacin|ne
+sdfdsf|dfssdf|fdbhjk|fdsklnj|zenski|042343243|ifoedefw@gdhs.gew|Gost|ne
+asfhl|fsaasf|jkbefw|jlwebf|zenski|0432432234|dfjbhsjfds@dsdfjk.sf|Gost|ne
+fsdf23423|dsdsf|ASFefe|ekfeknf|zenski|0432423434|fdssfe@ef.com|Gost|ne
