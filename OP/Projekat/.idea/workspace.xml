@@ -26,15 +26,15 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/korisnici.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/ostali_gosti.txt" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/apartmani.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/apartmani.txt" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/korisnici.txt" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/rezervacije.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/dodatna_oprema.txt" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/dodatna_oprema.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/rezervacije.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/korisnici.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/korisnici.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/apartmani.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/apartmani.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../FTN/Algoritmi/Vezbe2" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="apartmani" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -181,6 +181,9 @@
       <option name="presentableId" value="Default" />
       <updated>1643799788239</updated>
       <workItem from="1645382977307" duration="1351000" />
+      <workItem from="1646403437722" duration="77000" />
+      <workItem from="1646403593305" duration="90000" />
+      <workItem from="1647543075082" duration="61000" />
     </task>
     <servers />
   </component>
